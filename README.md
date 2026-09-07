@@ -6,7 +6,7 @@ AutoMC 帮你安排官服鸣潮每日任务、调用 OK-WW、记录运行结果�
 
 到 [官方下载页](https://github.com/940963818qieke-crypto/AutoMc-Releases/releases/latest)，下载 **`AutoMC-v版本号.zip`**，完整解压后打开顶层 **`AutoMC.exe`**。
 
-不要下载 `Source code` 当作程序，也不需要单独找 Core 或 Manager 包。当前版本为 **AutoMC 1.5.4，内含 Manager 1.0.3**。
+不要下载 `Source code` 当作程序，也不需要单独找 Core 或 Manager 包。当前版本为 **AutoMC 1.5.5，内含 Manager 1.0.3**。
 
 ## 第一次使用：六步上手
 

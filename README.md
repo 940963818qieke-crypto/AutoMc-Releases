@@ -6,7 +6,7 @@ AutoMC 帮你安排官服鸣潮每日任务、调用 OK-WW、记录运行结果�
 
 到 [官方下载页](https://github.com/940963818qieke-crypto/AutoMc-Releases/releases/latest)，下载 **`AutoMC-v版本号.zip`**，完整解压后打开顶层 **`AutoMC.exe`**。
 
-不要下载 `Source code` 当作程序，也不需要单独找 Core 或 Manager 包。当前版本为 **AutoMC 1.5.20，内含 Manager 1.0.7**。
+不要下载 `Source code` 当作程序，也不需要单独找 Core 或 Manager 包。当前版本为 **AutoMC 1.5.21，内含 Manager 1.0.7**。
 
 如果旧管理器停在“下载完成”却没有更新，请关闭 AutoMC，完整解压最新包到新目录并打开其中的 `AutoMC.exe`。同一 Windows 用户的已有配置仍保留；确认可用后将日常快捷方式指向新入口。
 
@@ -20,6 +20,8 @@ AutoMC 帮你安排官服鸣潮每日任务、调用 OK-WW、记录运行结果�
 6. 手动运行确认符合预期后，再设置时间并点击“开启每日自动运行”。
 
 自动任务需要电脑开机且处于已登录、可交互的桌面；不要期待它在关机或锁屏状态下操作游戏。
+
+启动器与游戏本体可以放在不同目录：“官服启动器目录”选择含 `launcher.exe` 的文件夹，“游戏本体目录”选择含 `Wuthering Waves.exe` 和 `Client` 的文件夹。标准安装的老配置不必修改。迁移来的游戏文件可保留在原位置，但须先确认官服启动器能正常启动它，且 OK-WW 选择的是同一份游戏；不支持以此替代 WeGame 的登录流程。
 
 ## 怎么选任务？
 
